@@ -48,11 +48,6 @@ namespace CrewsD_PigLatin
 
         }
 
-        private void sentenceLabel_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void exitButton_Click(object sender, EventArgs e)
         {
             this.Close();
